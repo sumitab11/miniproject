@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+.container{
+	width:400px;
+	height:200px;
+	padding:10px;
+	background:#ff00ff;
+	border-radius:4px;
+	box-shadow: 0 8px 16px;
+}
